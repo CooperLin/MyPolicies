@@ -1,13 +1,14 @@
 Effective Date: July 2, 2025
+
 App: JACIC EarTraining
 
 Cooper Lin (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we handle your data in the JACIC EarTraining app.
 
 1. Data Collection
 We do not collect personally identifiable information. We only use third-party services that collect anonymous device-level data such as:
-
 Device model, OS version, crash logs
-2. Third-party Services
+
+3. Third-party Services
 We use the following third-party tools:
 
 Service	Purpose	Platform
